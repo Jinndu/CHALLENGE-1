@@ -20,7 +20,7 @@
 
 
 ### Links
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://jinndu.github.io/CHALLENGE-1)
 - Live Site URL:(https://docs.github.com/)
 
 	
