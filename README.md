@@ -1,4 +1,3 @@
-# README
 ## Table of contents
 
 [Overview]
@@ -38,6 +37,5 @@
 - Website - [Jinndu](https://www.your-site.com)
 - Frontend Mentor - [@Jinndu](https://www.frontendmentor.io/profile/Jinndu)
 - Twitter - [@AngeloBliss05](https://www.twitter.com/AngeloBliss05)
-
 
 

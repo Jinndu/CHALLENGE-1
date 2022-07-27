@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: hsl(212, 45%, 89%);
+  font-family:'Montserrat', sans-serif;
+  margin: 200px;
+}
+.frontend-skills{
+  width: 28%;
+  height: 380px;
+  margin: auto;
+  border-radius: 30px;
+  background-color: white;
+  padding: 12.5px 2.5px 20px;
+  font-size:0.625rem;
+  margin-bottom: 50px;
+
+}
+img{
+  width: 90%;
+  border-radius: 20px;
+  padding: 2px;
+  margin-bottom: 10px;
+}
+h1{
+  font-family:'Montserrat', sans-serif;
+  color: #06283D;
+  width: 80%;
+  font-weight: 950;
+  margin: auto;
+  font-size: 17px;
+
+}
+p{
+  color: #777d7d;
+  width: 90%;
+  font-size: 12px;
+  margin-left: 15px;
+  margin-top: px;
+}
