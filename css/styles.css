@@ -6,7 +6,6 @@ body{
 }
 .frontend-skills{
   width: 28%;
-  height: 380px;
   margin: auto;
   border-radius: 30px;
   background-color: white;
@@ -35,5 +34,10 @@ p{
   width: 90%;
   font-size: 12px;
   margin-left: 15px;
-  margin-top: px;
+  margin-bottom: 10px;
+}
+@media (orientation: portrait) {
+  .frontend-skills{
+    width: 14%
+  } 
 }
