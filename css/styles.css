@@ -36,8 +36,11 @@ p{
   margin-left: 15px;
   margin-bottom: 10px;
 }
-@media (orientation: portrait) {
-  .frontend-skills{
-    width: 14%
+@media (orientation: portrait),(max-width:480px){
+  .body{
+    width: 30%;
   } 
+  .frontend-skills{
+    width: 15%;
+  }
 }
